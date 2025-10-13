@@ -53,5 +53,5 @@ Orchestrator detects opportunities, calls executor API to execute snipes.
 ---
 
 ## 🤝 Support
-Questions? Reach out on Telegram: 📞[soulcapridev](https://t.me/soulcapridev)  
+Questions? Reach out on Telegram: 📞[soulcrancerdev](https://t.me/soulcrancerdev)  
 Always test thoroughly before mainnet sniping. 🚀 Happy trading!
